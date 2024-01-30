@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/davi-costa7">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-costa7&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-costa7&layout=compact&langs_count=6&theme=neon"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-costa7&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-costa7&layout=compact&langs_count=6&theme=yeblu"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Redes sociais abaixo!
  
 <div> 
   <a href = "d.maiasantos10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
